@@ -5,7 +5,7 @@ a place to track the skills I am learning
 
 
 Skill/Technology | [yamlstore](https://github.com/ericstalbot/yamlstore) | [roadfollowing] (https://github.com/ericstalbot/roadfollowing)
---- | :---:
+--- | :---: | :---:
 Flask | x | 
 Flask-User | x | 
 WTForms | x | 
