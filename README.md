@@ -12,7 +12,8 @@ WTForms | x
 Jinja2 | x
 SQLAlchemy | x
 PostgreSQL | p
-AWS Elastic Beanstalk | p 
+AWS Elastic Beanstalk | p
+Bootstrap 3 | x
 
 x = the skill is part of the project
 
