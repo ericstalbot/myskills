@@ -12,7 +12,7 @@ WTForms | x |
 Jinja2 | x | 
 SQLAlchemy | x | 
 PostgreSQL | p | 
-AWS Elastic Beanstalk | p | 
+AWS Elastic Beanstalk | x | 
 Bootstrap 3 | x | 
 Pure JavaScript |  | x
 
